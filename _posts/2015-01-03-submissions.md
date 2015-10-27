@@ -19,15 +19,11 @@ server](https://penta.fosdem.org). Submissions should include:
 - Speaker bio
 - Links to code / slides / material for the talk (optional)
 - Links to previous talks by the speaker
+- Talks will be streamed live and will be recorded. By submitting a session, speakers agree to being recorded and having their talk made available.
+- All accepted talks will be about free and open source software. We highly discourage "marketing" talks.
+- If a speaker has submitted a talk before, they will already have an account on the submission management server [Pentabarf](https://penta.fosdem.org)).
 
-- Talks will be streamed live and will be recorded. By submitting a session,
-  speakers agree to being recorded and having their talk made available.
-- All accepted talks will be about free and open source software. We highly
-  discourage "marketing" talks.
-- If a speaker has submitted a talk before, they will already have an account on
-  the submission management server (Pentabarf](https://peta.fosdem.org) ).
-
-Furthermore, authors must identify any conflict of interest with the PC chair or PC members.
+Furthermore, authors must identify any conflict of interest with the Devroom organizers.
 
 <div style="text-align:center;">
   <p>
