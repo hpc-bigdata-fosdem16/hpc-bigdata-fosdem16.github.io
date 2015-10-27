@@ -1,0 +1,55 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
+
+
+### content configuration ###
+title:       "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
+keywords:    "hpc, big data, data science"
+description: "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
+source_link: "https://github.com/hpcugent/fosdem2016_hpc_bigdata_devroom"
+#favicon:     "img/favicon.ico"
+#touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-55665759-3
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#ffffff'
+  blue:      '#2a52be'
+  orange:    '#a98625'
+  red:       '#be4c2a'
+  green:     '#377f1c'
+  purple:    '#be2a52'
+  turquoise: '#2a9cbe
+
+# Dull pastels
+  # black:     '#111111'
+  # white:     '#ffffff'
+  # blue:      '#779ecb'
+  # orange:    '#cba477'
+  # red:       '#cb7a77'
+  # green:     '#9ecb77'
+  # purple:    '#cb779e'
+  # turquoise: '#77c8cb'
+
+# Original Bright colors
+  # black:     '#111111'
+  # white:     '#f8f8f8'
+  # blue:      '#49a7e9'
+  # green:     '#9bcf2f'
+  # purple:    '#c869bf'
+  # orange:    '#fab125'
+  # turquoise: '#0fbfcf'
