@@ -19,9 +19,7 @@ title:       "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
 keywords:    "hpc, big data, data science"
 description: "FOSDEM'16 HPC, Big Data, and Data Science Devroom"
 source_link: "https://github.com/hpcugent/fosdem2016_hpc_bigdata_devroom"
-#favicon:     "img/favicon.ico"
-#touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-55665759-3
+favicon:     "img/favicon.ico"
 
 
 ### template colors, used site-wide via css ###

@@ -14,5 +14,5 @@ icon-title: true
 * [Roman Shaposhnik]()
 * [Vasia Kalavri]()
 
-For the CoC we recommend using the [Apache Code of Conduct](
-http://www.apache.org/foundation/policies/conduct.html)
+We adopt the [Apache Code of Conduct](
+http://www.apache.org/foundation/policies/conduct.html).

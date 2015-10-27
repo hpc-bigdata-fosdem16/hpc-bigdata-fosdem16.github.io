@@ -7,10 +7,10 @@ fa-icon: file-text-o
 icon-title: true
 ---
 
-We invite presenters to submit original, high-quality work with
-sufficient background material to be clear to the HPC, Big Data, and/or Data
-Science communities. Talks proposals should be submitted through the [FOSDEM
-Pentabarf server](https://penta.fosdem.org). Submissions should include:
+We invite presenters to submit high-quality work with sufficient background
+material to be clear to the HPC, Big Data, and/or Data Science communities.
+Talks proposals should be submitted through the [FOSDEM Pentabarf
+server](https://penta.fosdem.org). Submissions should include:
 
 - Abstract
 - Session type
