@@ -28,9 +28,17 @@ Furthermore, authors must identify any conflict of interest with the Devroom org
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://penta.fosdem.org">
+      <a href="https://penta.fosdem.org/submission/FOSDEM16">
         <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
       </a>
     </span>
   </p>
 </div>
+
+When submitting your talk in Pentabarf, make sure to select the 'HPC, Big Data,
+and Data Science Devroom' as the 'Track'.
+
+If you already have a Pentabarf account from a previous year, please reuse it.
+Create an account if, and only if, you don't have one from a previous year. If
+you have any issues with Pentabarf, do not despair: contact Ewan dot Higgs or
+Kenneth dot Hoste at the ghent university domain.
