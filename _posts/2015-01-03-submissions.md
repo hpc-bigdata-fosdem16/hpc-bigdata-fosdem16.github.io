@@ -15,7 +15,7 @@ server](https://penta.fosdem.org/submission/FOSDEM16). Submissions must include:
 - Abstract
 - Session type
 - Session length
-- Required prior knowledge / intended audience
+- Expected prior knowledge / intended audience
 - Speaker bio
 - Links to code / slides / material for the talk (optional)
 - Links to previous talks by the speaker
