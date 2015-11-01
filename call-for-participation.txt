@@ -1,0 +1,156 @@
+FOSDEM'16 HPC, Big Data, and Data Science Devroom Call for Participation
+
+Sunday, January 31, 2016, Brussels, Belgium
+
+# Overview
+
+We are proud to announce the 1st edition of the HPC, Big Data and Data Science
+devroom, co-located with FOSDEM 2016. FOSDEM is an annual conference about free
+and open source software, attended by over 5000 developers and open-source
+enthusiasts from all over the world. FOSDEM has hosted an HPC devroom before,
+but this is the first time that representatives from the HPC and Big Data
+communities are joining forces to bring both communities together with this
+devroom.
+
+    High Performance Computing (HPC) and Big Data are two important approaches
+    to scientific computing. HPC typically deals with smaller, highly structured
+    data sets and huge amounts of computation while Big Data, not surprisingly,
+    deals with gigantic, unstructured data sets and focuses on the I/O
+    bottlenecks. With the Big Data trend unlocking access to an unprecedented
+    amount of data, Data Science has emerged to tackle the problem of creating
+    processes and approaches to extracting knowledge or insights from these data
+    sets. Machine learning and predictive analytics algorithms have joined the
+    family of more traditional HPC algorithms and are pushing the requirements
+    of cluster and data scalability.
+
+    Free and Open Source communities have been the foundation of the HPC and Big
+    Data communities for some time. In the HPC community, it should be no
+    surprise that 488 of the Top500 supercomputers in the world run Linux. On
+    the Big Data side, the Hadoop ecosystem has had a tremendous amount of Open
+    Source contributions from a wide range of organizations coming together
+    under the Apache Software Foundation.
+
+    Our goal is to bring the communities together, share expertise, learn how we
+    can benefit from each other’s work and foster further joint research and
+    collaboration. We welcome talks about Free and Open Source solutions to the
+    challenges presented by large scale computing, data management and data
+    analysis.
+
+The devroom will take place on Sunday, January 31st 2016, at ULB (Campus
+Solbosch), in Brussels, Belgium. Join us to enjoy a full day of talks, demos and
+interesting discussions on open-source HPC, Big Data and Data Science.
+
+Sounds interesting? Submit your talk proposal below and see you in Brussels!
+
+# Topics
+
+Topics of interest include, but are not limited to:
+
+    Architecture and design of High Performance Computing (HPC) and Big Data
+    systems
+
+    Architecture and design of Extract, Transform and Load (ETL) and data
+    acquisition pipelines
+
+    Data security and governance
+
+    Tools and technologies related to HPC and computational science, for
+    example:
+        Multithreading (OpenMP, etc.)
+        Distributed computing (MPI, etc.)
+        GPGPU computing (OpenCL, OpenACC, etc.)
+        Parallel filesystems and storage
+        Large-scale performance analysis and debugging
+    Computational paradigms for Big Data systems
+        MapReduce engines
+        Streaming engines
+        SQL engines
+        Dataflow engines
+    Emerging hardware trends of large scale clusters
+        Large scale memory pooling
+        High-speed interconnects
+        ARM cluster architecture
+    System administration of HPC and Big Data clusters
+
+    User support tools
+
+    Machine learning libraries and tools
+
+    Scientific software applications, tools and libraries (across all scientific
+    domains)
+
+    Big Data platforms, extensions to existing systems, libraries, APIs
+
+    Experiences reports on using Big Data systems, for example:
+        Large-scale deployments
+        Development and configuration issues
+        Tuning and performance tips and lessons learned
+    Interesting Big Data use-cases and applications
+
+    Comparative analysis of existing systems, evaluation results, performance
+    studies
+
+    Interdisciplinary HPC/Big Data use-cases, for example:
+        Applications using both HPC and Big Data technologies
+        Integration issues
+        Open research problems on the convergence of HPC and Big Data
+        Running MPI jobs on Big Data clusters and vice-versa
+
+# Submission
+
+We invite presenters to submit talk proposals to present high-quality work with
+sufficient background material to be clear to the HPC, Big Data, and/or Data
+Science communities. Talks proposals should be submitted through the FOSDEM
+Pentabarf server. Submissions must include:
+
+    Abstract
+    Session type
+    Session length
+    Expected prior knowledge / intended audience
+    Speaker bio
+    Links to code / slides / material for the talk (optional)
+    Links to previous talks by the speaker
+
+Our intention is to have a full day of talks of about 20 minutes each, with an
+additional 5 minutes for questions by attendees.
+
+We would also like to note:
+
+    Talks will be streamed live and will be recorded. By submitting a session,
+    speakers agree to being recorded and having their talk made available.
+
+    All accepted talks will be about (using) free and open source software. We
+    highly discourage “marketing” talks.
+
+Submit here: <https://penta.fosdem.org/submission/FOSDEM16>
+
+When submitting your talk in Pentabarf, make sure to select the ‘HPC, Big Data,
+and Data Science Devroom’ as the ‘Track’.
+
+If you already have a Pentabarf account from a previous FOSDEM edition, please
+reuse it. Create an account if, and only if, you don’t have one from a previous
+year. If you have any issues with Pentabarf, do not despair: contact
+hpc-bigdata-devroom [at] lists.fosdem.org .  Dates
+
+Call for parcipation available: November 2, 2015
+
+Call for participation closes: December 4, 2015
+
+Devroom schedule available: December 18, 2015
+
+Devroom dinner: Saturday January 30, 2016 (subject to change)
+
+Devroom date: Sunday January 31, 2016
+
+# Organizers
+
+    Ewan Higgs - HPC team at Ghent University
+    Kenneth Hoste - HPC team at Ghent University
+    Roman Shaposhnik - Pivotal
+    Vasia Kalavri - KTH Royal Institute of Technology (KTH)
+
+We adopt the Apache Code of Conduct.
+<http://www.apache.org/foundation/policies/conduct.html>
+
+Please email hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
+
