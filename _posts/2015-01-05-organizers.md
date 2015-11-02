@@ -15,4 +15,4 @@ encoding: utf-8
 * [Roman Shaposhnik](https://github.com/rvs) - [Pivotal](http://pivotal.io/) 
 * [Vasia Kalavri](https://github.com/vasia) - [KTH Royal Institute of Technology (KTH)](http://www.kth.se)
 
-We adopt the [Apache Code of Conduct](http://www.apache.org/foundation/policies/conduct.html).
+Please, take a moment to read our [Code of Conduct](coc.txt).
