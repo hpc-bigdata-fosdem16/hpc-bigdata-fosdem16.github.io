@@ -15,4 +15,4 @@ encoding: utf-8
 * [Roman Shaposhnik](https://github.com/rvs) - [Pivotal](http://pivotal.io/) 
 * [Vasia Kalavri](https://github.com/vasia) - [KTH Royal Institute of Technology (KTH)](http://www.kth.se)
 
-Please, take a moment to read our [Code of Conduct](coc.txt).
+Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2016/practical/conduct/).
